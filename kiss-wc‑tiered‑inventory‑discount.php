@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WooCommerce Tiered Inventory Discount
+ * Plugin Name: KISS - WooCommerce Tiered Inventory Discount
  * Description: Applies tiered, fixed‑allocation discounts (e.g. first 10 units –30 %, next 10 –20 %, etc.) to selected WooCommerce products.
  * Version:     1.0.0
- * Author:      Your Name
- * License:     GPL‑3.0‑or‑later
+ * Author:      KISSPlugins.com
+ * License:     GPL‑2.0
  * Text Domain: wc-tiered-inventory-discount
  *
  * Requires at least: 6.0
