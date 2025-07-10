@@ -154,11 +154,9 @@ possible.
 ---
 
 ## License
-Distributed under the **GNU GPL v2** – see \`LICENSE\` for details.
+Distributed under the **GNU GPL v2** – see license file for details.
  
-KISS WooCommerce Tiered Discounts - Alpha - Use at your own risk. 
-Test this plugin thoroughly before using it on a Live/Prodution Site.  
-Neither a warranty or any type of support is offered.  
----
+Test this plugin thoroughly before using it on a Live/Prodution Site.    
+Neither a warranty or any type of support is offered.    
 
 > Made with ❤️ for WooCommerce store owners who love creative promotions.
