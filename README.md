@@ -1,7 +1,7 @@
 # KISS Woo Tiered Discounts - ALPHA
-Important Notice: Test and Use at your own risk.
-Test this plugin thoroughly before using it on a Live/Prodution Site.
-Neither a warranty or any type of support is offered.
+Important Notice: Test and Use at your own risk.  
+Test this plugin thoroughly before using it on a Live/Prodution Site.  
+Neither a warranty or any type of support is offered.  
 
 Add limited‑allocation **tiered discounts** to any WooCommerce product  
 (e.g. first 10 units –30 %, next 10 –20 %, last 10 –10 %), with automatic
